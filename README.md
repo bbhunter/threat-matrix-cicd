@@ -1,5 +1,5 @@
-> 🚧 **June 2026 Update: New Project, cicd-sensor.**
-> I am building [cicd-sensor](https://github.com/cicd-sensor/cicd-sensor), a vendor-neutral open-source runtime security sensor, like an EDR for CI/CD pipelines. It is currently in pre-release and under active development. Feedback is very welcome.
+> [!NOTE]
+> **June 2026 Update:** I am building [cicd-sensor](https://github.com/cicd-sensor/cicd-sensor), a vendor-neutral open-source runtime security sensor, like an EDR for CI/CD pipelines. It is currently in pre-release and under active development. Feedback is very welcome.
 
 # Common Threat Matrix for CI/CD Pipeline
 This is an ATT&CK-like matrix focus on CI/CD Pipeline specific risk.  
